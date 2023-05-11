@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/dinarabz/dinarabz/blob/main/assets/main.png)
 
 About me
 
