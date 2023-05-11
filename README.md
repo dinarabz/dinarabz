@@ -1,10 +1,10 @@
 # Hi there, my name is Dinara!
 
-##### I am a Junior QA Engineer/Tester and a beginner Backend Developer. Since last year I have taken a course of Backend Development with Django.
+### I am a Junior QA Engineer/Tester and a beginner Backend Developer. Since last year I have taken a course of Backend Development with Django.
 
 ***
 
-### Language and Tools
+## Language and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Javascript)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
@@ -18,6 +18,6 @@
 
 
 
-### Follow Me
+## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinara-bazarkhanova/)
 
